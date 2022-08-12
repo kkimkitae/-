@@ -1,4 +1,9 @@
 :root {
     --yellow: #fae100;
     --horizontal-space: 35px;
+    --main-border:1px solid rgba(0,0,0,0.2);
+    --color: rgba(0,0,0,0.5);
 }
+
+
+/* var을 사용해서 다른 css에서도 사용가능 */
