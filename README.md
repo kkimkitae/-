@@ -5,6 +5,9 @@ HTML과 CSS이용
 
 https://kkimkitae.github.io/kokoa-clone/
 
+750px 초과시 Your screen is too big이라는 경고창 출력 
+ - 화면의 크기를 조정하면됌
+
 
 ## index 
 
